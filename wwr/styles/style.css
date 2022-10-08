@@ -39,10 +39,12 @@ nav a:hover{
 .book{
     background-color:#4f6d7a;
     color:#dbe9ee;
+    text-decoration: none;
 }
 .join{
     background-color:#4f6d7a;
     color:#dbe9ee;
+    text-decoration: none;
 }
 .book:hover{
     background-color:#dbe9ee;
@@ -74,6 +76,7 @@ h4{
 }
 footer a {
     color:#dbe9ee;
+    text-decoration: none;
 }
 footer a:hover{
     background-color:#dbe9ee;

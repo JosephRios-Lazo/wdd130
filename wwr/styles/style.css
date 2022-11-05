@@ -23,7 +23,7 @@
 }
  #background {
      height: 725px;
-     background-color:#4f6d7a;
+     background-color:#dbe9ee;
      grid-column: 1/11;
      grid-row: 4/9;
 }
@@ -185,7 +185,7 @@
      width: 100%;
      grid-column: 2/10;
      grid-row: 5/8;
-     box-shadow: 5px 5px 10px #dbe9ee;
+     box-shadow: 5px 5px 10px #4f6d7a;
 }
  .card-img:hover {
      opacity: .6;

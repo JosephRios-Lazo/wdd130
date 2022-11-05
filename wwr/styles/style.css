@@ -122,6 +122,10 @@
  footer .social img {
      padding-top: 15px;
 }
+.home-grid{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
  .rivers-card {
      margin: 200px 0;
      grid-column: 2/4;
@@ -159,6 +163,9 @@
      justify-self: center;
      align-self: center;
 }
+#hero-box img{
+    width: 100%;
+}
  #hero {
      display: grid;
      grid-template-columns: 1fr 3fr 1fr;
@@ -176,9 +183,9 @@
 }
  .mountains {
      width: 100%;
-     grid-column: 2/7;
+     grid-column: 2/10;
      grid-row: 5/8;
-     box-shadow: 5px 5px 10px #4f6d7a;
+     box-shadow: 5px 5px 10px #dbe9ee;
 }
  .card-img:hover {
      opacity: .6;

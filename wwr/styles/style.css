@@ -294,13 +294,13 @@ footer{
     text-align: center;
 }
  .backriver {
-    height: 1025px auto 0;
+    height: 1025px;
     background-color:#dbe9ee;
     grid-column: 1/11;
     grid-row: 3/4;
 }
 .title{
-font-size: 1em auto 0;
+font-size: 1em;
 }
  @media screen and (max-width: 900px) {
      #hero, .home-grid {

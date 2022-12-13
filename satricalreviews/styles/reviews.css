@@ -5,7 +5,7 @@
 }
 .home-grid {
     display: grid;
-    grid-template-columns: repeat(10, 1fr)
+    grid-template-columns: repeat(11, 1fr)
 }
 .review1-card {
     margin: 50px 0;
@@ -53,6 +53,8 @@
 .review-img {
     width: 20em;
     border: 10px solid #d38c4a;
+    display: block;
+    margin: 0 auto;
 }
 body{
     background-color:#1e1c17 ;
